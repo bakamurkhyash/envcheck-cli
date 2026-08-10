@@ -5,7 +5,7 @@ Scan your codebase for environment variables actually used in code, and diff the
 ## Install
 
 ```bash
-pip install envcheck-cli
+pip install cli-envcheck
 ```
 
 Or run locally:
