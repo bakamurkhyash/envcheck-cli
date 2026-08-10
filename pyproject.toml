@@ -1,5 +1,5 @@
 [project]
-name = "envcheck-scan"
+name = "cli-envcheck"
 version = "0.1.0"
 description = "Scan your codebase for env vars and diff against .env.example"
 readme = "README.md"
