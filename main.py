@@ -29,7 +29,7 @@ def find_code_files(root: Path):
                 yield path
 
 
-def extract_used_vars(root: Path) -> Set[str]:
+def extract_used_vars(root: Path) -> Set[str]:  
     used = set()
     for file in find_code_files(root):
         try:
